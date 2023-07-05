@@ -1,0 +1,1 @@
+export const baseUrl = 'https://nifty-server-slsuyel.vercel.app';
