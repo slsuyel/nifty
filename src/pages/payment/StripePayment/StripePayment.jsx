@@ -118,7 +118,7 @@ const StripePayment = () => {
     }
 
     return (
-        <div className="w-50 mx-auto my-4">
+        <div className="col-md-4 mx-auto my-4">
             <form onSubmit={handleSubmit} className="mx-3">
                 <CardElement
                     options={{
